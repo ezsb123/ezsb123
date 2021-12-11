@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezsb123
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Coding 
+- 🌱 I’m currently learning discord.js
 - 💞️ I’m looking to collaborate on > Not now
 - 📫 How to reach me > Discord
 
